@@ -10,9 +10,11 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 | Cadastre | Data relating to the land registration system of Nova Scotia |
 | Civic Addressing | Data relating to the land registration system of Nova Scotia |
 | Climate | Data relating to the climate and weather of Nova Scotia |
+| Connectivity | Data relating to internet and mobile connectivity in Nova Scotia |
 | Geology | Data relating to the geological landscape of Nova Scotia |
 | History | Data relating to historical records, archives and event timelines for events having occured in Nova Scotia |
 | Housing | Data relating to housing in Nova Scotia |
+| Infrastructure | Data relating to transportation and utility infrastructure in Nova Scotia |
 | Imagery | Aerial and satellite imagery of Nova Scotia |
 | Justice and Crime | Data relating to crime, policing and the justice system in Nova Scotia |
 | Real Estate | Data relating to the real estate industry in Nova Scotia |
@@ -35,18 +37,38 @@ https://nsgi.novascotia.ca/gdd/
 
 # Data Sources:
 
-# Housing:
+# Built Environment:
 
-### Halifax Buildings:
+## Halifax Buildings:
 
-Building Details:
+Building Details (HRM):
 
 https://catalogue-hrm.opendata.arcgis.com/datasets/255ffc6d20734218a6647d6ba18ccfda_0/explore
 
-
-Building Outlines:
+Building Outlines (HRM):
 
 https://catalogue-hrm.opendata.arcgis.com/datasets/625d718e3dd04dc4ac69ae2861f6df36_0/explore
+
+Statistics Canada Open Database of Buildings (Nova Scotia):
+
+https://www150.statcan.gc.ca/n1/pub/34-26-0001/2018001/ODB_v2_NovaScotia.zip
+
+# History:
+
+Archives Nova Scotia Historical Maps of Nova Scotia:
+
+https://archives.novascotia.ca/maps/
+
+
+# Infrastructure:
+
+## Power infrastructure:
+
+Nova Scotia Power Outage Map:
+
+http://outagemap.nspower.ca/external/default.html
+
+## Transportation Infrastructure:
 
 
 # Justice and Crime:

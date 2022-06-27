@@ -24,19 +24,19 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 
 - Halifax Open Data Portal (Halifax Regional Municipality)
 
-https://catalogue-hrm.opendata.arcgis.com
+  https://catalogue-hrm.opendata.arcgis.com
 
 - Provincial Landscape Viewer:
 
-https://nsgi.novascotia.ca/plv/
+  https://nsgi.novascotia.ca/plv/
 
 - Provincial Government Geographic Data Directory:
 
-https://nsgi.novascotia.ca/gdd/
+  https://nsgi.novascotia.ca/gdd/
 
 - Nova Scotia Government's Open Data Portal:
 
-https://data.novascotia.ca/
+  https://data.novascotia.ca/
 
 
 # Data Sources:

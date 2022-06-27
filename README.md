@@ -5,13 +5,16 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 
 | Category | Description |
 | --- | --- |
-| Business | Data relating to business records within Nova Scotia |
+| Business | Geographically-intensive private industry data from within Nova Scotia |
+| Built Environment | Data relating to man-made topography within Nova Scotia |
 | Cadastre | Data relating to the land registration system of Nova Scotia |
 | Civic Addressing | Data relating to the land registration system of Nova Scotia |
 | Climate | Data relating to the climate and weather of Nova Scotia |
 | Geology | Data relating to the geological landscape of Nova Scotia |
 | History | Data relating to historical records, archives and event timelines for events having occured in Nova Scotia |
+| Housing | Data relating to housing in Nova Scotia |
 | Imagery | Aerial and satellite imagery of Nova Scotia |
+| Justice and Crime | Data relating to crime, policing and the justice system in Nova Scotia |
 | Real Estate | Data relating to the real estate industry in Nova Scotia |
 | Remote Sensing | Data obtained via remote sensing relating to Nova Scotia |
 
@@ -32,8 +35,7 @@ https://nsgi.novascotia.ca/gdd/
 
 # Data Sources:
 
-
-## Housing Data:
+# Housing:
 
 ### Halifax Buildings:
 
@@ -47,10 +49,18 @@ Building Outlines:
 https://catalogue-hrm.opendata.arcgis.com/datasets/625d718e3dd04dc4ac69ae2861f6df36_0/explore
 
 
-Land Parcels:
+# Justice and Crime:
 
-https://libraries.dal.ca/find/data/gis-external-data.html
+Halifax Regional Police / Halifax District RCMP Crime mapping application:
 
+https://www.arcgis.com/apps/webappviewer/index.html?id=cd5b990f2132430bb2bda1da366f175c
+
+The Courts of Nova Scotia Courthouse Locations:
+
+https://www.courts.ns.ca/courthouse_locations/courthouse_locations_map.htm
+
+
+# Real Estate:
 
 ## Property Assesments:
 
@@ -61,3 +71,8 @@ https://www.pvsc.ca/en/home/default.aspx
 Find an Assesment:
 
 https://www.pvsc.ca/en/home/findanassessment/default.aspx
+
+
+Land Parcels:
+
+https://libraries.dal.ca/find/data/gis-external-data.html

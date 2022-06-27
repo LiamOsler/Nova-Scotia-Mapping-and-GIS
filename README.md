@@ -25,6 +25,10 @@ Provincial Landscape Viewer:
 
 https://nsgi.novascotia.ca/plv/
 
+Provincial Government Geographic Data Directory:
+
+https://nsgi.novascotia.ca/gdd/
+
 
 # Data Sources:
 

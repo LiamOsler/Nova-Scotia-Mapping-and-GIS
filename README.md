@@ -3,15 +3,13 @@ Material related to a Halifax Housing Hackathon
 
 # Data Sources:
 
-## Resident opinions and experienceS:
-
 ### Surveys:
 2021 Resident Survey:
 https://www.halifax.ca/home/surveys
 
 ### Local News Stories:
 
-## Geographic Housing Data:
+## Housing Data:
 
 ### Halifax Buildings:
 

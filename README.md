@@ -37,6 +37,12 @@ https://nsgi.novascotia.ca/gdd/
 
 # Data Sources:
 
+# Business:
+
+Search for business or non-profit information filed with Registry of Joint Stock Companies:
+
+https://beta.novascotia.ca/search-business-or-non-profit-information-filed-registry-joint-stock-companies
+
 # Built Environment:
 
 ## Halifax Buildings:
@@ -58,6 +64,9 @@ https://www150.statcan.gc.ca/n1/pub/34-26-0001/2018001/ODB_v2_NovaScotia.zip
 Archives Nova Scotia Historical Maps of Nova Scotia:
 
 https://archives.novascotia.ca/maps/
+
+# Imagery:
+
 
 
 # Infrastructure:

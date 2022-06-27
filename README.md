@@ -34,6 +34,10 @@ Provincial Government Geographic Data Directory:
 
 https://nsgi.novascotia.ca/gdd/
 
+Nova Scotia Government's Open Data Portal:
+
+https://data.novascotia.ca/
+
 
 # Data Sources:
 

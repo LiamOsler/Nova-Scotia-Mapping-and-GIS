@@ -90,10 +90,12 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 
 # Justice and Crime:
 
+## Policing:
 - Halifax Regional Police / Halifax District RCMP Crime mapping application:
 
   https://www.arcgis.com/apps/webappviewer/index.html?id=cd5b990f2132430bb2bda1da366f175c
 
+## Courts:
 - The Courts of Nova Scotia Courthouse Locations:
 
   https://www.courts.ns.ca/courthouse_locations/courthouse_locations_map.htm

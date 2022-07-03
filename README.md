@@ -5,6 +5,7 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 
 | Category | Description |
 | --- | --- |
+| Aviation | Data relating to aviation within Nova Scotia |
 | Business | Geographically-intensive private industry data from within Nova Scotia |
 | Built Environment | Data relating to man-made topography within Nova Scotia |
 | Cadastre | Data relating to the land registration system of Nova Scotia |
@@ -17,8 +18,11 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 | Infrastructure | Data relating to transportation and utility infrastructure in Nova Scotia |
 | Imagery | Aerial and satellite imagery of Nova Scotia |
 | Justice and Crime | Data relating to crime, policing and the justice system in Nova Scotia |
+| Marine | Data relating to the marine industry in Nova Scotia |
+| Natural Resources | Data relating to waste management services in Nova Scotia |
 | Real Estate | Data relating to the real estate industry in Nova Scotia |
 | Remote Sensing | Data obtained via remote sensing relating to Nova Scotia |
+| Waste Management | Data relating to waste management services in Nova Scotia |
 
 # Data Portals:
 

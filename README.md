@@ -45,15 +45,16 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 
 # Data Sources:
 
-# Business:
+## Business:
 
 - Search for business or non-profit information filed with Registry of Joint Stock Companies:
 
   https://beta.novascotia.ca/search-business-or-non-profit-information-filed-registry-joint-stock-companies
 
-# Built Environment:
 
-## Halifax Buildings:
+## Built Environment:
+
+### Halifax Building Details and Footprints:
 
 - Building Details (HRM):
 
@@ -63,57 +64,67 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 
   https://catalogue-hrm.opendata.arcgis.com/datasets/625d718e3dd04dc4ac69ae2861f6df36_0/explore
 
+### Nova Scotia Buildings::
 - Statistics Canada Open Database of Buildings (Nova Scotia):
 
   https://www150.statcan.gc.ca/n1/pub/34-26-0001/2018001/ODB_v2_NovaScotia.zip
 
-# History:
+
+## History:
 
 - Archives Nova Scotia Historical Maps of Nova Scotia:
 
   https://archives.novascotia.ca/maps/
 
-# Imagery:
 
+## Imagery:
 
+- Historical Aerial Photos:
 
-# Infrastructure:
+  https://www.halifax.ca/about-halifax/municipal-archives/exhibits/historical-aerial-photos
+  
+- National Air Photo Library:
 
-## Power infrastructure:
+  https://memoryns.ca/national-air-photo-library-collection
+  
+
+## Infrastructure:
+
+### Utilties (regulatory):
+
+- Utilities Map (Nova Scotia Utility and Review Board):
+
+  https://nsuarb.novascotia.ca/utility-map
+
+### Power infrastructure:
 
 - Nova Scotia Power Outage Map:
 
   http://outagemap.nspower.ca/external/default.html
 
-## Transportation Infrastructure:
 
+## Justice and Crime:
 
-# Justice and Crime:
-
-## Policing:
+### Policing:
 - Halifax Regional Police / Halifax District RCMP Crime mapping application:
 
   https://www.arcgis.com/apps/webappviewer/index.html?id=cd5b990f2132430bb2bda1da366f175c
 
-## Courts:
+### Courts:
 - The Courts of Nova Scotia Courthouse Locations:
 
   https://www.courts.ns.ca/courthouse_locations/courthouse_locations_map.htm
 
 
-# Real Estate:
+## Real Estate:
 
-## Property Assesments:
+### Property Assesments:
 
-- Property Values:
+- Property Values Services Corporation:
 
   https://www.pvsc.ca/en/home/default.aspx
 
-- Find an Assesment:
+- Find a property assesment:
 
   https://www.pvsc.ca/en/home/findanassessment/default.aspx
 
-
-- Land Parcels:
-
-  https://libraries.dal.ca/find/data/gis-external-data.html

@@ -92,7 +92,7 @@ Pull requests and comments welcome. Please report any dead links as issues.
 
 ## Infrastructure:
 
-### Utilties (regulatory):
+### Regulations:
 
 - Utilities Map (Nova Scotia Utility and Review Board):
 
@@ -151,7 +151,6 @@ Pull requests and comments welcome. Please report any dead links as issues.
   https://www.townofyarmouth.ca/departments/operational-services/maps-operation-services.html
 
   
-
 # Portals:
 
 ## Provincial:

@@ -8,7 +8,7 @@ Pull requests and comments welcome. Please report any dead links as issues.
 - [Portals](#Portals)
 
 ## Categories:
-*Note: [Links](#) denote categories with entries*
+*Note: [Links](#) denote categories with entries.*
 
 | Category | Description |
 | --- | --- |
@@ -23,8 +23,8 @@ Pull requests and comments welcome. Please report any dead links as issues.
 | [History](#History) | Data relating to historical records, archives and event timelines for events having occured in Nova Scotia |
 | Housing | Data relating to housing in Nova Scotia |
 | Infrastructure | Data relating to transportation and utility infrastructure in Nova Scotia |
-| Imagery | Aerial and satellite imagery of Nova Scotia |
-| Justice and Crime | Data relating to crime, policing and the justice system in Nova Scotia |
+| [Imagery](#Imagery) | Aerial and satellite imagery of Nova Scotia |
+| [Justice and Crime](#Justice-and-Crime) | Data relating to crime, policing and the justice system in Nova Scotia |
 | Marine | Data relating to the marine industry in Nova Scotia |
 | Natural Resources | Data relating to waste management services in Nova Scotia |
 | [Real Estate](#Real-Estate) | Data relating to the real estate industry in Nova Scotia |

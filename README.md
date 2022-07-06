@@ -2,9 +2,9 @@
 A repository with links/information to publicly available GIS data in Nova Scotia
 
 ## Table Of Contents:
-[Categories](#Categories)
-[Links](#Links)
-[Data Portals](#Data-Portals)
+- [Categories](#Categories)
+- [Links](#Links)
+- [Data Portals](#Data-Portals)
 
 ## Categories:
 *[Links](#) denote categories with entries*

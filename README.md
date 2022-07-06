@@ -8,7 +8,7 @@ Pull requests and comments welcome. Please report any dead links as issues.
 - [Portals](#Portals)
 
 ## Categories:
-* Note: [Links](#) denote categories with entries*
+*Note: [Links](#) denote categories with entries*
 
 | Category | Description |
 | --- | --- |

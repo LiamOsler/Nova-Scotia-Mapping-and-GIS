@@ -3,8 +3,8 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 
 ## Table Of Contents:
 - [Categories](#Categories)
-- [Links](#Links)
-- [Data Portals](#Data-Portals)
+- [Sources](#Sources)
+- [Portals](#Data-Portals)
 
 ## Categories:
 *[Links](#) denote categories with entries*
@@ -32,7 +32,7 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 | Zoning | Data and maps relating to municipal zoning |
 
 
-# Links:
+# Sources:
 
 ## Business:
 
@@ -130,7 +130,7 @@ A repository with links/information to publicly available GIS data in Nova Scoti
   https://kentville.ca/sites/default/files/media/files/Municipal%20Planning%20Strategy%202019%20amended%20Oct%202021.pdf
   
 
-# Data Portals:
+# Portals:
 
 - Halifax Open Data Portal (Halifax Regional Municipality)
 

@@ -55,9 +55,21 @@ Pull requests and comments welcome. Please report any dead links as issues.
   https://catalogue-hrm.opendata.arcgis.com/datasets/625d718e3dd04dc4ac69ae2861f6df36_0/explore
 
 ### Nova Scotia Buildings::
+
 - Statistics Canada Open Database of Buildings (Nova Scotia):
 
   https://www150.statcan.gc.ca/n1/pub/34-26-0001/2018001/ODB_v2_NovaScotia.zip
+
+
+## Cadastre:
+
+- Nova Scotia Coordinate Referencing System Viewer:
+
+  https://gis8.nsgc.gov.ns.ca/NSCRS/
+  
+- NTv2 coordinate transformation tool:
+
+  https://webapp.csrs-scrs.nrcan-rncan.gc.ca/geod/tools-outils/ntv2.php?locale=en
 
 
 ## History:
@@ -130,6 +142,15 @@ Pull requests and comments welcome. Please report any dead links as issues.
 
   https://kentville.ca/sites/default/files/media/files/Municipal%20Planning%20Strategy%202019%20amended%20Oct%202021.pdf
   
+- Town of Yarmouth Land Use By-Law and Zoning Maps:
+
+  https://www.townofyarmouth.ca/land-use-by-law-and-zoning-map2.html
+  
+- Town of Yarmout Operation Services Map:
+
+  https://www.townofyarmouth.ca/departments/operational-services/maps-operation-services.html
+
+  
 
 # Portals:
 
@@ -152,3 +173,7 @@ Pull requests and comments welcome. Please report any dead links as issues.
 - datazONE (Open Data portal for some NS municipalities including CBRM):
 
   https://www.thedatazone.ca/
+
+- Town of Truro Data Portal:
+
+  https://interactive-truro-townoftruro.hub.arcgis.com/

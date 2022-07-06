@@ -5,7 +5,7 @@ Pull requests and comments welcome. Please report any dead links as issues.
 ## Table of Contents:
 - [Categories](#Categories)
 - [Sources](#Sources)
-- [Portals](#Data-Portals)
+- [Portals](#Portals)
 
 ## Categories:
 *[Links](#) denote categories with entries*

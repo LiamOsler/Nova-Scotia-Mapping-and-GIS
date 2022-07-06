@@ -54,7 +54,7 @@ Pull requests and comments welcome. Please report any dead links as issues.
 
   https://catalogue-hrm.opendata.arcgis.com/datasets/625d718e3dd04dc4ac69ae2861f6df36_0/explore
 
-### Nova Scotia Buildings::
+### Nova Scotia Buildings:
 
 - Statistics Canada Open Database of Buildings (Nova Scotia):
 
@@ -154,9 +154,7 @@ Pull requests and comments welcome. Please report any dead links as issues.
 
 # Portals:
 
-- Halifax Open Data Portal (Halifax Regional Municipality)
-
-  https://catalogue-hrm.opendata.arcgis.com
+## Provincial:
 
 - Provincial Landscape Viewer:
 
@@ -169,6 +167,12 @@ Pull requests and comments welcome. Please report any dead links as issues.
 - Nova Scotia Government's Open Data Portal:
 
   https://data.novascotia.ca/
+
+- Halifax Open Data Portal (Halifax Regional Municipality)
+
+  https://catalogue-hrm.opendata.arcgis.com
+  
+## Municipal:
   
 - datazONE (Open Data portal for some NS municipalities including CBRM):
 

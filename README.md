@@ -22,7 +22,7 @@ Pull requests and comments welcome. Please report any dead links as issues.
 | Geology | Data relating to the geological landscape of Nova Scotia |
 | [History](#History) | Data relating to historical records, archives and event timelines for events having occured in Nova Scotia |
 | Housing | Data relating to housing in Nova Scotia |
-| Infrastructure | Data relating to transportation and utility infrastructure in Nova Scotia |
+| [Infrastructure](#Infrastructure) | Data relating to transportation and utility infrastructure in Nova Scotia |
 | [Imagery](#Imagery) | Aerial and satellite imagery of Nova Scotia |
 | [Justice and Crime](#Justice-and-Crime) | Data relating to crime, policing and the justice system in Nova Scotia |
 | Marine | Data relating to the marine industry in Nova Scotia |

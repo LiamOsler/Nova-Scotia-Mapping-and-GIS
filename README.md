@@ -1,7 +1,12 @@
 # Nova Scotia Open GIS Data
 A repository with links/information to publicly available GIS data in Nova Scotia
 
-## Data Categories:
+## Table Of Contents:
+[Categories](#Categories)
+[Links](#Links)
+[Data Portals](#Data-Portals)
+
+## Categories:
 *[Links](#) denote categories with entries*
 
 | Category | Description |
@@ -26,30 +31,8 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 | Waste Management | Data relating to waste management services in Nova Scotia |
 | Zoning | Data and maps relating to municipal zoning |
 
-# Data Portals:
 
-- Halifax Open Data Portal (Halifax Regional Municipality)
-
-  https://catalogue-hrm.opendata.arcgis.com
-
-- Provincial Landscape Viewer:
-
-  https://nsgi.novascotia.ca/plv/
-
-- Provincial Government Geographic Data Directory:
-
-  https://nsgi.novascotia.ca/gdd/
-
-- Nova Scotia Government's Open Data Portal:
-
-  https://data.novascotia.ca/
-  
-- datazONE (Open Data portal for some NS municipalities including CBRM):
-
-  https://www.thedatazone.ca/
-
-
-# Data Sources:
+# Links:
 
 ## Business:
 
@@ -146,3 +129,25 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 
   https://kentville.ca/sites/default/files/media/files/Municipal%20Planning%20Strategy%202019%20amended%20Oct%202021.pdf
   
+
+# Data Portals:
+
+- Halifax Open Data Portal (Halifax Regional Municipality)
+
+  https://catalogue-hrm.opendata.arcgis.com
+
+- Provincial Landscape Viewer:
+
+  https://nsgi.novascotia.ca/plv/
+
+- Provincial Government Geographic Data Directory:
+
+  https://nsgi.novascotia.ca/gdd/
+
+- Nova Scotia Government's Open Data Portal:
+
+  https://data.novascotia.ca/
+  
+- datazONE (Open Data portal for some NS municipalities including CBRM):
+
+  https://www.thedatazone.ca/

@@ -146,7 +146,7 @@ Pull requests and comments welcome. Please report any dead links as issues.
 
   https://www.townofyarmouth.ca/land-use-by-law-and-zoning-map2.html
   
-- Town of Yarmout Operation Services Map:
+- Town of Yarmouth Operation Services Maps:
 
   https://www.townofyarmouth.ca/departments/operational-services/maps-operation-services.html
 

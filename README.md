@@ -166,13 +166,13 @@ Pull requests and comments welcome. Please report any dead links as issues.
 - Nova Scotia Government's Open Data Portal:
 
   https://data.novascotia.ca/
+  
+## Municipal:
 
 - Halifax Open Data Portal (Halifax Regional Municipality)
 
   https://catalogue-hrm.opendata.arcgis.com
-  
-## Municipal:
-  
+
 - datazONE (Open Data portal for some NS municipalities including CBRM):
 
   https://www.thedatazone.ca/

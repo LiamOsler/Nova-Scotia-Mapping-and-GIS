@@ -23,6 +23,7 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 | Real Estate | Data relating to the real estate industry in Nova Scotia |
 | Remote Sensing | Data obtained via remote sensing relating to Nova Scotia |
 | Waste Management | Data relating to waste management services in Nova Scotia |
+| Zoning | Data and maps relating to municipal zoning |
 
 # Data Portals:
 
@@ -41,6 +42,10 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 - Nova Scotia Government's Open Data Portal:
 
   https://data.novascotia.ca/
+  
+- datazONE (Open Data portal for some NS municipalities including CBRM):
+
+  https://www.thedatazone.ca/
 
 
 # Data Sources:
@@ -127,4 +132,16 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 - Find a property assesment:
 
   https://www.pvsc.ca/en/home/findanassessment/default.aspx
+  
+## Zoning:
+  
+### Zoning maps:
+  
+- Town of Kentville Zoning Map:
+  
+  https://kentville.ca/sites/default/files/media/files/Zoning_Amended_May2022.pdf
 
+- Town of Kentville Municipal Planning Strategy :
+
+  https://kentville.ca/sites/default/files/media/files/Municipal%20Planning%20Strategy%202019%20amended%20Oct%202021.pdf
+  

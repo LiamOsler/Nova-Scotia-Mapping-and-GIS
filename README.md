@@ -1,7 +1,8 @@
 # Nova Scotia Open GIS Data
-A repository with links/information to publicly available GIS data in Nova Scotia
+A repository with links/information to publicly available GIS data in Nova Scotia.
+Pull requests and comments welcome. Please report any dead links as issues.
 
-## Table Of Contents:
+## Table of Contents:
 - [Categories](#Categories)
 - [Sources](#Sources)
 - [Portals](#Data-Portals)
@@ -13,23 +14,23 @@ A repository with links/information to publicly available GIS data in Nova Scoti
 | --- | --- |
 | Aviation | Data relating to aviation within Nova Scotia |
 | [Business](#Business) | Geographically-intensive private industry data from within Nova Scotia |
-| Built Environment | Data relating to man-made topography within Nova Scotia |
-| Cadastre | Data relating to the land registration system of Nova Scotia |
+| [Built Environment](#Built-Environment) | Data relating to man-made topography within Nova Scotia |
+| [Cadastre](#Cadastre) | Data relating to the land registration system of Nova Scotia |
 | Civic Addressing | Data relating to the land registration system of Nova Scotia |
 | Climate | Data relating to the climate and weather of Nova Scotia |
 | Connectivity | Data relating to internet and mobile connectivity in Nova Scotia |
 | Geology | Data relating to the geological landscape of Nova Scotia |
-| History | Data relating to historical records, archives and event timelines for events having occured in Nova Scotia |
+| [History](#History) | Data relating to historical records, archives and event timelines for events having occured in Nova Scotia |
 | Housing | Data relating to housing in Nova Scotia |
 | Infrastructure | Data relating to transportation and utility infrastructure in Nova Scotia |
 | Imagery | Aerial and satellite imagery of Nova Scotia |
 | Justice and Crime | Data relating to crime, policing and the justice system in Nova Scotia |
 | Marine | Data relating to the marine industry in Nova Scotia |
 | Natural Resources | Data relating to waste management services in Nova Scotia |
-| Real Estate | Data relating to the real estate industry in Nova Scotia |
+| [Real Estate](#Real-Estate) | Data relating to the real estate industry in Nova Scotia |
 | Remote Sensing | Data obtained via remote sensing relating to Nova Scotia |
 | Waste Management | Data relating to waste management services in Nova Scotia |
-| Zoning | Data and maps relating to municipal zoning |
+| [Zoning](#Zoning) | Data and maps relating to municipal zoning |
 
 
 # Sources:

@@ -2,10 +2,11 @@
 A repository with links/information to publicly available GIS data in Nova Scotia
 
 ## Data Categories:
+*[Links](#) denote categories with entries*
 
 | Category | Description |
 | --- | --- |
-| [Aviation](#Aviation) | Data relating to aviation within Nova Scotia |
+| Aviation | Data relating to aviation within Nova Scotia |
 | [Business](#Business) | Geographically-intensive private industry data from within Nova Scotia |
 | Built Environment | Data relating to man-made topography within Nova Scotia |
 | Cadastre | Data relating to the land registration system of Nova Scotia |

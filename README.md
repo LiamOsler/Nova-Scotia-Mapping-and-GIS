@@ -118,56 +118,104 @@ Pull requests and comments welcome. Please report any dead links as issues.
 
   https://www.courts.ns.ca/courthouse_locations/courthouse_locations_map.htm
   
-
 ## Municipal:
+
 ### Cape Breton
+
 ### Halifax
+
 ### Queens
+
 ### West Hants
+
 ### Annapolis
+
 ### Antigonish
+
 ### Colchester
+
 ### Cumberland
+
 ### Inverness
+
 ### Kings
+
 ### Pictou
+
 ### Richmond
+
 ### Victoria
+
 ### Argyle
+
 ### Barrington
+
 ### Chester
+
 ### Clare
+
 ### Digby
+
 ### East Hants
+
 ### Guysborough
+
 ### Lunenburg
+
 ### Shelburne
+
 ### St. Mary's
+
 ### Yarmouth
+
 ### Amherst
+
 ### Annapolis Royal
+
 ### Antigonish
+
 ### Berwick
+
 ### Bridgewater
+
 ### Clark's Harbour
+
 ### Digby
+
 ### Kentville
+
 ### Lockeport
+
 ### Lunenburg
+
 ### Mahone Bay
+
 ### Middleton
+
 ### Mulgrave
+
 ### New Glasgow
+
 ### Oxford
+
 ### Pictou
+
 ### Port Hawkesbury
+
 ### Shelburne
+
 ### Stellarton
+
 ### Stewiacke
+
 ### Trenton
+
 ### Truro
+
 ### Westville
+
 ### Wolfville
+
 ### Yarmouth
 
 ## Real Estate:

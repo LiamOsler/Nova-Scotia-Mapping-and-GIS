@@ -150,7 +150,7 @@ https://data-cumberlandns.opendata.arcgis.com/
 http://edpc.ca/
 
 ### Kings
-https://www.countyofkings.ca/business/statistics.aspx
+https://www.countyofkings.ca/engage/pim.aspx
 
 ### Pictou
 

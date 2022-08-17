@@ -121,8 +121,10 @@ Pull requests and comments welcome. Please report any dead links as issues.
 ## Municipal:
 
 ### Cape Breton
+https://www.thedatazone.ca/
 
 ### Halifax
+https://www.halifax.ca/home/open-data
 
 ### Queens
 

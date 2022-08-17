@@ -25,6 +25,7 @@ Pull requests and comments welcome. Please report any dead links as issues.
 | [Infrastructure](#Infrastructure) | Data relating to transportation and utility infrastructure in Nova Scotia |
 | [Imagery](#Imagery) | Aerial and satellite imagery of Nova Scotia |
 | [Justice and Crime](#Justice-and-Crime) | Data relating to crime, policing and the justice system in Nova Scotia |
+| [Municipal](#Municipal) | Municipal Data Portals and Mapping sources |
 | Marine | Data relating to the marine industry in Nova Scotia |
 | Natural Resources | Data relating to waste management services in Nova Scotia |
 | [Real Estate](#Real-Estate) | Data relating to the real estate industry in Nova Scotia |
@@ -116,7 +117,58 @@ Pull requests and comments welcome. Please report any dead links as issues.
 - The Courts of Nova Scotia Courthouse Locations:
 
   https://www.courts.ns.ca/courthouse_locations/courthouse_locations_map.htm
+  
 
+## Municipal:
+### Cape Breton
+### Halifax
+### Queens
+### West Hants
+### Annapolis
+### Antigonish
+### Colchester
+### Cumberland
+### Inverness
+### Kings
+### Pictou
+### Richmond
+### Victoria
+### Argyle
+### Barrington
+### Chester
+### Clare
+### Digby
+### East Hants
+### Guysborough
+### Lunenburg
+### Shelburne
+### St. Mary's
+### Yarmouth
+### Amherst
+### Annapolis Royal
+### Antigonish
+### Berwick
+### Bridgewater
+### Clark's Harbour
+### Digby
+### Kentville
+### Lockeport
+### Lunenburg
+### Mahone Bay
+### Middleton
+### Mulgrave
+### New Glasgow
+### Oxford
+### Pictou
+### Port Hawkesbury
+### Shelburne
+### Stellarton
+### Stewiacke
+### Trenton
+### Truro
+### Westville
+### Wolfville
+### Yarmouth
 
 ## Real Estate:
 

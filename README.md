@@ -127,20 +127,30 @@ https://www.thedatazone.ca/
 https://www.halifax.ca/home/open-data
 
 ### Queens
+https://www.regionofqueens.com/municipal-services/planning/mapping
 
 ### West Hants
+https://www.westhants.ca/district-map.html
+https://www.westhants.ca/municipal-departments/planning/maps-street-community-fire-district-polling.html
 
 ### Annapolis
+https://annapoliscounty.ca/community-development/maps-geographic-information
 
 ### Antigonish
+https://antigonishcounty.ns.ca/planning-and-development/
 
 ### Colchester
+https://storymaps.arcgis.com/collections/2821ccbcfff646b5a724c62f36ca5d67?item=1
 
 ### Cumberland
+https://www.cumberlandcounty.ns.ca/municipal-office/district-maps.html
+https://data-cumberlandns.opendata.arcgis.com/
 
 ### Inverness
+http://edpc.ca/
 
 ### Kings
+https://www.countyofkings.ca/business/statistics.aspx
 
 ### Pictou
 

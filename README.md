@@ -153,22 +153,36 @@ http://edpc.ca/
 https://www.countyofkings.ca/engage/pim.aspx
 
 ### Pictou
+https://mopc-pictoucounty.hub.arcgis.com/
 
 ### Richmond
+(No GIS or Mapping specific page found)
+http://www.richmondcounty.ca/
 
 ### Victoria
+(No GIS or Mapping specific page found)
 
 ### Argyle
+(No GIS or Mapping specific page found)
+https://www.munargyle.com/
 
 ### Barrington
+(No GIS or Mapping specific page found)
+https://www.barringtonmunicipality.com/
 
 ### Chester
+(No GIS or Mapping specific page found)
+https://chester.ca/
 
 ### Clare
+(No GIS or Mapping specific page found)
+https://www.clarenovascotia.com/
 
 ### Digby
+https://digbymun.ca/district-map.html
 
 ### East Hants
+
 
 ### Guysborough
 

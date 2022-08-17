@@ -131,6 +131,7 @@ https://www.regionofqueens.com/municipal-services/planning/mapping
 
 ### West Hants
 https://www.westhants.ca/district-map.html
+
 https://www.westhants.ca/municipal-departments/planning/maps-street-community-fire-district-polling.html
 
 ### Annapolis
@@ -144,6 +145,7 @@ https://storymaps.arcgis.com/collections/2821ccbcfff646b5a724c62f36ca5d67?item=1
 
 ### Cumberland
 https://www.cumberlandcounty.ns.ca/municipal-office/district-maps.html
+
 https://data-cumberlandns.opendata.arcgis.com/
 
 ### Inverness
@@ -157,34 +159,42 @@ https://mopc-pictoucounty.hub.arcgis.com/
 
 ### Richmond
 (No GIS or Mapping specific page found)
+
 http://www.richmondcounty.ca/
 
 ### Victoria
 (No GIS or Mapping specific page found)
 
+https://victoriacounty.com/
+
 ### Argyle
 (No GIS or Mapping specific page found)
+
 https://www.munargyle.com/
 
 ### Barrington
 (No GIS or Mapping specific page found)
+
 https://www.barringtonmunicipality.com/
 
 ### Chester
 (No GIS or Mapping specific page found)
+
 https://chester.ca/
 
 ### Clare
 (No GIS or Mapping specific page found)
+
 https://www.clarenovascotia.com/
 
 ### Digby
 https://digbymun.ca/district-map.html
 
 ### East Hants
-
+https://easthants.maps.arcgis.com/home/index.html
 
 ### Guysborough
+https://modg.ca/sites/default/files/pdfs/districts1.pdf
 
 ### Lunenburg
 
